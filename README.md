@@ -4,7 +4,7 @@ This is a simple [Express](http://expressjs.com/) app to be used with a [Dialogf
 
 ## The spreadsheet being used in this demo
 
-[https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit](https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit)
+[https://docs.google.com/spreadsheets/d/1crmCCQuZwFWvTPffpVxUmOjv45h7l57eKRFE3nWPwgo/edit](https://docs.google.com/spreadsheets/d/1crmCCQuZwFWvTPffpVxUmOjv45h7l57eKRFE3nWPwgo/edit)
 
 ## The `.env` file content
 
@@ -15,7 +15,7 @@ You will need to create an `.env` file with the following content:
 
 ## The dialogflow agent
 
-It's testable here: [https://bot.dialogflow.com/0eac406e-b0c0-4169-9321-c8df60854b99](https://bot.dialogflow.com/0eac406e-b0c0-4169-9321-c8df60854b99)
+It's testable here: [https://bot.dialogflow.com/7600c804-19c1-43be-87c4-1bcf24c89286](https://bot.dialogflow.com/7600c804-19c1-43be-87c4-1bcf24c89286)
 
 The agent's export file is downloadable here: [http://bit.ly/2xN9g2k](http://bit.ly/2xN9g2k)
 
